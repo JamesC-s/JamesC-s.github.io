@@ -12,6 +12,8 @@ I am a third year PhD student in the MathCoRe graduate college, working at the I
 
 Publications
 ======
+The Influence of Shape Constraints on the Thresholding Bandit Problem
+James Cheshire, Pierre Menard, Alexandra Carpentier, [COLT2020](http://proceedings.mlr.press/v125/cheshire20a/cheshire20a.pdf)
 
 Talks
 ======
