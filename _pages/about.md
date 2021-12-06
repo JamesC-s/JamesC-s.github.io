@@ -12,6 +12,7 @@ I am a third year PhD student in the MathCoRe graduate college, working at the I
 
 Publications
 ======
+
 Bandits with many optimal arms
 ------
 Rianne De Heide James Cheshire, Pierre Menard, Alexandra Carpentier, [Neurips2021](https://papers.nips.cc/paper/2021/hash/bd33f02c4e28615b5af2d24703e066d5-Abstract.html)
