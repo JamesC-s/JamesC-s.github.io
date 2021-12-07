@@ -30,9 +30,11 @@ Talks
 
 Teaching
 ======
+
 Mathematics of Machine Learning
 ------
 Masters students, Potsdam University, [Link to course page](https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&status=init&publishid=91905&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+
 Educaion
 ======
 2018/(2022) PhD, IMST, Otto-von-Guericke University, Magdeburg, funded through [MathCoRe](https://www.mathcore.ovgu.de/)
