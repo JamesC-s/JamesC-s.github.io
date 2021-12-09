@@ -1,8 +1,8 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "[Publications](https://github.com/JamesC-s/JamesC-s.github.io/blob/master/_pages/about.md#publcations)"
     #url: /publications1/
-    <a href="#pub"> Publications</a>
+
     
   - title: "Talks"
     url: /talks1/    
