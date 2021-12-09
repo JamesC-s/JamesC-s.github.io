@@ -27,6 +27,7 @@ James Cheshire, Pierre Menard, Alexandra Carpentier, [COLT2020](http://proceedin
 
 Talks
 ======
+
 Bandits with many optimal arms
 ------
 Statistical Processes and Machine learning III, Potsdam, November 25th 2021
