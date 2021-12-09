@@ -10,10 +10,10 @@ main:
    # url: /teaching/    
     
 - title: "Publications"
-    url: /publications1/
+    url: /publication/
 
   - title: "Talks"
-    url: /talks1/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: /teaching1/   
+    url: /teaching/   
