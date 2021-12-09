@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am a third year PhD student in the MathCoRe graduate college, working at the IMST Otto-von-Guericke  Unversity Magdeburg under the supervision of Alexandra Carpentier.
+
 permalink: /publications1/
+
 Publications
 ======
 
@@ -17,7 +19,7 @@ Bandits with many optimal arms
 ------
 Rianne De Heide James Cheshire, Pierre Menard, Alexandra Carpentier, [Neurips2021](https://papers.nips.cc/paper/2021/hash/bd33f02c4e28615b5af2d24703e066d5-Abstract.html)
 
-Problem Dependent View on Structured Thresholding Bandit Problems
+Problem Dependent View on Structured Thresholding Bandit Problems.
 ------
 James Cheshire, Pierre Menard, Alexandra Carpentier, [ICML2021](http://proceedings.mlr.press/v139/cheshire21a.html)
 
