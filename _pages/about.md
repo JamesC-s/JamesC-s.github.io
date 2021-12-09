@@ -24,7 +24,7 @@ James Cheshire, Pierre Menard, Alexandra Carpentier, [ICML2021](http://proceedin
 The Influence of Shape Constraints on the Thresholding Bandit Problem
 ------
 James Cheshire, Pierre Menard, Alexandra Carpentier, [COLT2020](http://proceedings.mlr.press/v125/cheshire20a/cheshire20a.pdf)
-permalink: /talks1/
+
 Talks
 ======
 Bandits with many optimal arms
@@ -38,7 +38,7 @@ Institut für Mathematik, Potsdam, November 2nd 2021
 The Influence of Shape Constraints on the Thresholding Bandit Problem
 ------
 COLT2020
-permalink: /teaching1/
+
 Teaching
 ======
 
