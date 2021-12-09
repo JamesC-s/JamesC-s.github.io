@@ -51,4 +51,3 @@ Educaion
 2018/(2022) PhD, IMST, Otto-von-Guericke University, Magdeburg, funded through [MathCoRe](https://www.mathcore.ovgu.de/)
 ------
 2014/2018 MSci Hons Mathematics Lancaster University (I)
-------
