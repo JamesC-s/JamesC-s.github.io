@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third year PhD student in the MathCoRe graduate college, working at the IMST Otto-von-Guericke  Unversity Magdeburg under the supervision of Alexandra Carpentier.
 
-Publcations
+Publications
 ======
 
 Bandits with many optimal arms
