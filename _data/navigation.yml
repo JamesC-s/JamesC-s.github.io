@@ -1,8 +1,9 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications1/
-
+    #url: /publications1/
+    <a href="#pub"> Publications</a>
+    
   - title: "Talks"
     url: /talks1/    
 
