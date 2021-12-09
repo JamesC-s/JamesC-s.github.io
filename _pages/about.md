@@ -10,7 +10,12 @@ redirect_from:
 
 I am a third year PhD student in the MathCoRe graduate college, working at the IMST Otto-von-Guericke  Unversity Magdeburg under the supervision of Alexandra Carpentier.
 
-permalink: /publications1/
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 Publications
 ======
