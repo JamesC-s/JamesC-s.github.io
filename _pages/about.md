@@ -48,4 +48,4 @@ Masters students, Potsdam University, [Link to course page](https://puls.uni-pot
 
 Education
 ======
-2018/(2022) PhD, IMST, Otto-von-Guericke University, Magdeburg, funded through [MathCoRe](https://www.mathcore.ovgu.de/) <br> 2014/2018 MSci Hons Mathematics Lancaster University (I)
+2018/(2022) PhD, IMST, Otto-von-Guericke University, Magdeburg, funded through [MathCoRe](https://www.mathcore.ovgu.de/) <br/><br/> 2014/2018 MSci Hons Mathematics Lancaster University (I)
