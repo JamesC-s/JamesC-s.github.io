@@ -30,7 +30,7 @@ Talks
 
 Bandits with many optimal arms
 ------
-Statistical Processes and Machine learning III, Potsdam, November 25th 2021
+Statistical Processes and Machine learning, Potsdam, November 25th 2021
 
 Shape Constrained Thresholding Bandit Problems
 ------
