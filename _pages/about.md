@@ -32,6 +32,10 @@ Bandits with many optimal arms
 ------
 Statistical Processes and Machine learning, Potsdam, November 25th 2021
 
+Shape Constrained Thresholding Bandit Problems
+------
+Institut für Mathematik, Potsdam, November 2nd 2021
+
 Concentration inequalities
 ------
 MathCoRe annual colloquim, October 6th 2021
@@ -39,10 +43,6 @@ MathCoRe annual colloquim, October 6th 2021
 Problem Dependent View on Structured Thresholding Bandit Problems
 -----
 ICML2021 (pre recorded)
-
-Shape Constrained Thresholding Bandit Problems
-------
-Institut für Mathematik, Potsdam, November 2nd 2021
 
 The Influence of Shape Constraints on the Thresholding Bandit Problem
 ------
@@ -58,7 +58,7 @@ Masters students, Potsdam University, [Link to course page](https://puls.uni-pot
 Education
 ======
 2018/(2022) PhD, IMST, Otto-von-Guericke University, Magdeburg, funded through [MathCoRe](https://www.mathcore.ovgu.de/) <br/><br/>
-Compact course Tensor Algebra, Otto-von-Guericke University Magdeburg, 2021 <br/><br/>
 Hausdorf Summer School: High Dimensional Statistics, 2021 <br/><br/>
+Compact course Tensor Algebra, Otto-von-Guericke University Magdeburg, 2021 <br/><br/>
 Compact course Polynomial Optimization, Otto-von-Guericke University Magdeburg, 2020 <br/><br/>
 2014/2018 MSci Hons Mathematics Lancaster University (I)
