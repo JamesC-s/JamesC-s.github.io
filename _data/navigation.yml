@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://github.com/JamesC-s/JamesC-s.github.io/blob/master/_pages/about.md#publications
+    url: https://JamesC-s.github.io/#publications
 
   - title: "Talks"
-    url: /talks1/    
+    url: https://JamesC-s.github.io/#talks  #/talks1/    
 
   - title: "Teaching"
-    url: /teaching1/    
+    url: https://JamesC-s.github.io/#teaching    
 
